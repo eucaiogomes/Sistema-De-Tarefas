@@ -273,7 +273,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- 📧 Email: seu.email@exemplo.com
+- 📧 Email: gcaio98406@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/caio-mata-8bb741219/
 - 🐙 GitHub:https://github.com/eucaiogomes
 

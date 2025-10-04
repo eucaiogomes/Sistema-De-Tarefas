@@ -274,8 +274,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Seu Nome**
 - 📧 Email: seu.email@exemplo.com
-- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- 💼 LinkedIn: https://www.linkedin.com/in/caio-mata-8bb741219/
+- 🐙 GitHub:https://github.com/eucaiogomes
 
 ---
 
